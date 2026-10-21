@@ -1,0 +1,18 @@
+{
+  "name": "en_us_int4_full",
+  "dataset": "fleurs",
+  "lang": "en_us",
+  "wer": 20.20042556112293,
+  "subs": 1192,
+  "dels": 1437,
+  "ins": 314,
+  "sub_rate": 8.18175578282655,
+  "del_rate": 9.863408607316906,
+  "ins_rate": 2.155261170979477,
+  "total_edits": 2943,
+  "total_words": 14569,
+  "errors": 0,
+  "audio_sec": 6387.899999999999,
+  "proc_sec": 1052.5649596581789,
+  "rtf": 6.068889089823466
+}

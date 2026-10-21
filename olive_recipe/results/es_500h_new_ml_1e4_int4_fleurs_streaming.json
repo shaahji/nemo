@@ -1,0 +1,18 @@
+{
+  "name": "es_500h_new_ml_1e4_int4",
+  "dataset": "fleurs",
+  "lang": "es_419",
+  "wer": 100.0,
+  "subs": 0,
+  "dels": 117,
+  "ins": 0,
+  "sub_rate": 0.0,
+  "del_rate": 100.0,
+  "ins_rate": 0.0,
+  "total_edits": 117,
+  "total_words": 117,
+  "errors": 0,
+  "audio_sec": 52.5,
+  "proc_sec": 8.816932418994838,
+  "rtf": 5.9544519006288565
+}
